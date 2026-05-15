@@ -61,6 +61,7 @@
 - APIs
 - HTML / CSS
 - JavaScript
+- TypeScript
 - Node.js
 - Express.js
 - React / Vue / Angular
@@ -70,8 +71,8 @@
 
 #### Programming Languages
 - Python
-- Java
 - C#
+- Java
 - C / C++
 - Go
 - Rust
